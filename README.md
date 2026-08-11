@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
