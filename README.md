@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
