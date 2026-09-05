@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/2413-smallest-even-multiple) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0349-intersection-of-two-arrays) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
