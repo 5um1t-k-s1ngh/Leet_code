@@ -53,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0125-valid-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
