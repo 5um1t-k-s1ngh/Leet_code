@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -65,17 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -86,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/5um1t-k-s1ngh/Leet_code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
